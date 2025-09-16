@@ -1,6 +1,7 @@
 import {
   CallToAction,
   Features,
+  Footer,
   Header,
   Hero,
   LogoTicker,
@@ -16,6 +17,7 @@ export default function Home() {
       <Features />
       <Testimonials />
       <CallToAction />
+      <Footer />
     </>
   );
 }
